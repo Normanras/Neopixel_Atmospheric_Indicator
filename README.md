@@ -20,16 +20,6 @@ Parts used:
 * [Adafruit Jewel 7 RGBW](https://www.adafruit.com/product/2859)
 * [22 AWG Wire - I have been using this, but any will do](https://www.amazon.com/gp/product/B07TX6BX47/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
-## Circuit Layout and Image
-  
-  Seeeduino Xiao                            BME280
-  
-        || D0           5V  ||     <-- to 5V   || VCC   ||
-        || D1           GND ||     <-- to GND  || GND   ||
-Jewel 2 || D2           3.3V||     <-- to D5   || SCL   ||
-Jewel 1 || D3           D10 ||     <-- D4      || SDA   ||
-        || D4 - SDA     D9  ||                 || CSB   ||
-        || D5 - SCL     D8  ||                 || SDO   ||
-        ||_D6___________D7__||
+## Breadboard Image
 
 ![Picture of two Neopixels, Sensor, and Xiao](https://i.imgur.com/HFIlbCU.jpg)
