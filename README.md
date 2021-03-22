@@ -22,7 +22,7 @@ Parts used:
 
 ## Breadboard Image
 Second image ~ March 21st
-<img src="https://i.imgur.com/8aFFsvk.jpg" alt="Picture of updated layout, added a Barometric Pressure Neopixel" style="width:200px;" />
+<img src="https://i.imgur.com/8aFFsvk.jpg" alt="Picture of updated layout, added a Barometric Pressure Neopixel" width="100" height="200" />
 
 First image ~ March 15th
 ![Picture of two Neopixels, Sensor, and Xiao](https://i.imgur.com/HFIlbCU.jpg = 250x)
