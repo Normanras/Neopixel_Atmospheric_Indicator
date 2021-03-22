@@ -21,5 +21,8 @@ Parts used:
 * [22 AWG Wire - I have been using this, but any will do](https://www.amazon.com/gp/product/B07TX6BX47/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
 ## Breadboard Image
+Second image ~ March 21st
+![Picture of updated layout, added a Barometric Pressure Neopixel](https://i.imgur.com/8aFFsvk.jpg = 250x)
 
-![Picture of two Neopixels, Sensor, and Xiao](https://i.imgur.com/HFIlbCU.jpg)
+First image ~ March 15th
+![Picture of two Neopixels, Sensor, and Xiao](https://i.imgur.com/HFIlbCU.jpg = 250x)
